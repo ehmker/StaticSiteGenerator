@@ -1,4 +1,5 @@
 __pycache__/
-commit.sh
 test.sh
 main.sh
+src/playground.ipynb
+public/
